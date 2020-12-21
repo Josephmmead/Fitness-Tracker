@@ -8,7 +8,10 @@ Express, Node, Mongoose, MongoDB, Morgan, and Path
 
 ## Deployed app
 
-https://fit--tracker.herokuapp.com/
+<p align="center">
+    <a href="https://fit--tracker.herokuapp.com/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+</p>
+
 
 ##Installation
 
