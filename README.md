@@ -2,7 +2,7 @@
 
 A fitness app that will help you keep track of all or your daily workouts. By allowing the user to log workouts and then being able to see your progress through graphs. 
 
-##Technologies Used
+## Technologies Used
 
 Express, Node, Mongoose, MongoDB, Morgan, and Path
 
@@ -12,14 +12,13 @@ Express, Node, Mongoose, MongoDB, Morgan, and Path
     <a href="https://fit--tracker.herokuapp.com/"><img src="https://img.shields.io/badge/-Deployeed App-success?style=blue"  alt="Live Site" /></a>
 </p>
 
-
-##Installation
+## Installation
 
 1. Clone repository.
 2. npm install all necessary dependencies.
 3. node server.js
 
-##Usage
+## Usage
 
 ### Screenshots
 
